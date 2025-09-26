@@ -1,0 +1,3 @@
+Offset: 0	Message: Miami
+Offset: 1	Message: Boca Raton
+Offset: 2	Message: Tallahassee
